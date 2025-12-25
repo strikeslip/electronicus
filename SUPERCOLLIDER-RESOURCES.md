@@ -1,8 +1,8 @@
 # SuperCollider Resources
 ## Classic Synthesizer Emulation & Synthesis Techniques
 
-*Compiled: December 2024*  
-*For: Sounds of Seismic (https://sos.allshookup.org/)*
+*Compiled: December 25, 2024*  
+*Claude Sonnet 4.5*
 
 ---
 
