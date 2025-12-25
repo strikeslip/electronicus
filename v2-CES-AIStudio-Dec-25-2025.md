@@ -3,8 +3,8 @@
 Source Project: Sounds of Seismic (SOS)
 https://sos.allshookup.org/
 
-LLM: AIStudio
-- Many broken links
+LLM: Gemini AIStudio
+- Dec 25, 2025
 
 ---
 
